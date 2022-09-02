@@ -19,6 +19,23 @@ And now the development process got a new dimension of better planning.
 
 </details>
 
-**Linux Survival** is excellent! I've already noticed that there's no point in creating the folder with Windows interface instead of just using mkdir. So I'm planning to use more and more of it in my everyday work.  
-**HTTP** is a whole new world. A lot of info in just two articles, of course it's not enough to learn it, but the overview is great for a start.
+**Linux Survival** is excellent! I've already noticed that there's no point in  
+creating the folder with Windows interface instead of just using **mkdir**. So I'm  
+planning to use more and more of it in my everyday work.  
+**HTTP** is a whole new world. A lot of info in just two articles, of course it's  
+not enough to learn it, but the overview is great for a start.
 
+## Git Collaboration
+
+<details>
+<summary><b>Lessons screenshots</b></summary>
+
+![lesson1](/task_git_collaboration/git1.png)
+![lesson2](/task_git_collaboration/git2.png)
+![lesson3](/task_git_collaboration/git-g.png)
+
+</details>
+
+Everything about rebasing, reverting, picking commits, etc. was new to me. My previous  
+work with Git was based on a strong rule to avoid such situations at all costs. But still,  
+they happen from time to time, glad I had time to learn more about it.
