@@ -50,4 +50,19 @@ they happen from time to time, glad I had time to learn more about it.
 ![lesson3](/task_html_css_intro/codecademy.png)
 
 </details>
-This time for me it was just a revision of my knowledge. Still it's always good to make sure you remember the basics.
+This time for me it was just a revision of my knowledge. Still it's always good to make  
+sure you remember the basics.
+
+## Responsive Web Design
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+![lesson1](/task_responsive_web_design/flex.png)
+![lesson2](/task_responsive_web_design/grid.png)
+
+</details>
+ 
+Flexbox was easy, but it was nice to practice CSS Grid as it gives a lot more opportunities  
+for flexible layout. I especially like that it is possible to place an item anywhere in the  
+grid just by setting column and row numbers. Priceless!
