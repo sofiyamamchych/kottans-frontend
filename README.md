@@ -10,7 +10,7 @@ And now the development process got a new dimension of better planning.
 ## Linux CLI, and HTTP
 
 <details>
-<summary><b>Lessons screenshots</b></summary>
+<summary><b>Screenshots</b></summary>
 
 ![lesson1](/task_linux_cli/linux1.png)
 ![lesson2](/task_linux_cli/linux2.png)
@@ -28,7 +28,7 @@ not enough to learn it, but the overview is great for a start.
 ## Git Collaboration
 
 <details>
-<summary><b>Lessons screenshots</b></summary>
+<summary><b>Screenshots</b></summary>
 
 ![lesson1](/task_git_collaboration/git1.png)
 ![lesson2](/task_git_collaboration/git2.png)
@@ -39,3 +39,15 @@ not enough to learn it, but the overview is great for a start.
 Everything about rebasing, reverting, picking commits, etc. was new to me. My previous  
 work with Git was based on a strong rule to avoid such situations at all costs. But still,  
 they happen from time to time, glad I had time to learn more about it.
+
+## Intro to HTML and CSS
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+![lesson1](/task_html_css_intro/html1.png)
+![lesson2](/task_html_css_intro/html2.png)
+![lesson3](/task_html_css_intro/codecademy.png)
+
+</details>
+This time for me it was just a revision of my knowledge. Still it's always good to make sure you remember the basics.
